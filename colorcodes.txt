@@ -1,0 +1,12 @@
+gray color(feedback and share)=>   #5C5C5D
+text color for share and fedback=>  #202020
+activities text color => #737373
+add button color=> #FF4081
+actionbar color =>#3F51B5
+grey light background color => #EBE4D9
+
+color codes for news 
+dates color and bottom letestes version => #757575
+topic color => #424242
+discription color => #212121
+android version color=> #006064
